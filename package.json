@@ -24,6 +24,7 @@
     "*.css": "prettier --write"
   },
   "dependencies": {
+    "@radix-ui/react-menubar": "^1.1.6",
     "@radix-ui/react-slot": "^1.1.2",
     "@tailwindcss/vite": "^4.0.11",
     "class-variance-authority": "^0.7.1",
